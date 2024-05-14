@@ -16,7 +16,7 @@ I'm a Frontend Architect with a passion for building innovative applications tha
 
 ## 💼 Experience
 
-### Senior Web Developer | [quester.io](https://www.quester.io)
+### Senior Web Developer | [quester.io](https://quester.io)
 _Remote_ | Oct 2021 — Present
 
 - **Frontend Team Lead**: Lead the frontend development team, collaborating closely with designers to deliver well-structured React and Redux applications with efficient data flow, component organization, and robust business logic.
