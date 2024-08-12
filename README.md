@@ -6,13 +6,13 @@ I'm a Frontend Architect with a passion for building innovative applications tha
 
 ## 🛠 Skills
 
-- **HTML & CSS**: Skillful
 - **JavaScript**: Experienced
 - **React**: Experienced
 - **Redux**: Experienced
 - **Node.js**: Skillful
 - **Firebase**: Skillful
 - **SQL**: Beginner
+- **HTML & CSS**: Skillful
 
 ## 💼 Experience
 
