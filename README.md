@@ -2,14 +2,14 @@
 
 ## 🚀 About Me
 
-I'm a Frontend Architect with a passion for building innovative applications that delight users. Proven ability to craft user-centric experiences (e.g., 80% LMS submission drop rate reduction) and optimize performance (e.g., 40% server load reduction). I leverage my expertise in React, Redux, Angular, Node.js, and Firebase to tackle complex challenges and deliver impactful solutions.
+System Architect owning end-to-end delivery for 15+ greenfield product launches—from discovery and architecture to hands-on full-stack dev and DevOps. I lead a small, high-velocity team to ship scalable, secure, and observable systems with React/Next.js, TypeScript/Node.js, and cloud-native infrastructure.
 
 ## 🛠 Skills
 
 - **JavaScript**: Experienced
 - **React**: Experienced
 - **Redux**: Experienced
-- **Node.js**: Skillful
+- **Node.js**: Experienced
 - **Firebase**: Skillful
 - **SQL**: Beginner
 - **HTML & CSS**: Skillful
