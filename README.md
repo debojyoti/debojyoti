@@ -16,6 +16,12 @@ System Architect owning end-to-end delivery for 15+ greenfield product launches�
 
 ## 💼 Experience
 
+### System Architect | Dexterous Technology LLC _United States_ | July 2024 — Present
+
+- **Team Lead**: Led the dev team specializing in React, Redux, and Node.js, collaborating closely with designers to deliver well-structured applications.
+- **Optimized Data Flow**: Translated complex design challenges into smoothly functioning applications with optimized data flow and system performance.
+- **Innovative Projects**: Spearheaded innovative projects to enhance operational efficiency in a high-velocity team.
+
 ### Senior Web Developer | [quester.io](https://quester.io)
 _Remote_ | Oct 2021 — Present
 
